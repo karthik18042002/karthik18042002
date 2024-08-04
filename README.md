@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthik18042002
+- 👋 Hi, I’m @karthik
 - 👀 I’m interested in CFD
 - 🌱 I’m currently learning XCOMPACT3D
 - 💞️ I’m looking to collaborate on ...
